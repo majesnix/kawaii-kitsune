@@ -1,0 +1,55 @@
+{
+  "_from": "kawaii-kitsune",
+  "_id": "kawaii-kitsune@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-dJcDWZGOTNe25rk3dM/hdkOu/VGPUFxJ7h4p/dPaIZh3TdXb2xhQZtkyhgS6mw+wIlX1DNp2wYVgMjwLOPCKBw==",
+  "_location": "/kawaii-kitsune",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "kawaii-kitsune",
+    "name": "kawaii-kitsune",
+    "escapedName": "kawaii-kitsune",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/kawaii-kitsune/-/kawaii-kitsune-1.0.2.tgz",
+  "_shasum": "0c6d7efc039464a223830b67eda237e37d320b10",
+  "_spec": "kawaii-kitsune",
+  "_where": "/mnt/d/gits/dlnongitnpm",
+  "author": {
+    "name": "KurozeroPB",
+    "email": "kurozeroinc@gmail.com",
+    "url": "https://kurozero.xyz/"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.17.0"
+  },
+  "deprecated": false,
+  "description": "A promise NodeJS wrapper for interacting with the kitsu.io API including typings for typescript",
+  "devDependencies": {
+    "@types/node": "^8.0.27",
+    "eslint": "^4.6.1",
+    "typescript": "^2.5.2"
+  },
+  "keywords": [
+    "kitsu",
+    "kitsu.io",
+    "api",
+    "anime",
+    "manga",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "kawaii-kitsune",
+  "typings": "./typings/index.d.ts",
+  "version": "1.0.2"
+}
