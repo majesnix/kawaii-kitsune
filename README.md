@@ -1,3 +1,5 @@
+With this repo im trying to fix the typings and may update some things, original Readme below
+
 # kawaii-kitsune
 
 ## Features
