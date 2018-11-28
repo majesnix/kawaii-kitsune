@@ -22,13 +22,7 @@ class Anime {
     this.ageRating = data.attributes.ageRating;
     this.ageRatingGuide = data.attributes.ageRatingGuide;
     this.subType = data.attributes.subtype;
-    this.posterImage = {
-      tiny: data.attributes.posterImage.tiny,
-      small: data.attributes.posterImage.small,
-      large: data.attributes.posterImage.large,
-      original: data.attributes.posterImage.original,
-      meta: data.attributes.posterImage.meta
-    };
+    this.posterImage = data.attributes.posterImage;
     this.coverImage = data.attributes.coverImage;
     this.episodeCount = data.attributes.episodeCount;
     this.episodeLength = data.attributes.episodeLength;
