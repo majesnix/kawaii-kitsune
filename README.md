@@ -31,7 +31,7 @@ kitsu.searchAnime('fate/apocrypha')
 #### TypeScript:
 
 ```ts
-import * as Kitsu from 'kawaii-kitsune';
+import { Kitsu } from 'kawaii-kitsune';
 const kitsu = new Kitsu();
 
 kitsu.searchAnime('fate/apocrypha')
