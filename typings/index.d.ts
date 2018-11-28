@@ -133,7 +133,7 @@ declare module 'kawaii-kitsune' {
 	}
 
 	export class Kitsu {
-		constructor();
+		public constructor();
 		private _userAgent: string;
 		private _options: {
 			headers: {

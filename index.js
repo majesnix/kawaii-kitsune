@@ -1,1 +1,3 @@
-module.exports = require('./src/Kitsu');
+module.exports = {
+	Kitsu: require('./src/Kitsu')
+};
