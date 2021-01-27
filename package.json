@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": ">=0.21.1"
   },
   "deprecated": false,
   "description": "A promise NodeJS wrapper for interacting with the kitsu.io API including typings for typescript",
